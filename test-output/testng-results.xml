@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11758" started-at="2017-11-06T01:08:12Z" finished-at="2017-11-06T01:08:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11758" started-at="2017-11-06T01:08:12Z" finished-at="2017-11-06T01:08:24Z">
+      <class name="TripTest.TestTripPlanner">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TripTest.TestTripPlanner@7c16905e]" name="setUp" is-config="true" duration-ms="8805" started-at="2017-11-06T12:08:12Z" finished-at="2017-11-06T12:08:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkTrips()[pri:0, instance:TripTest.TestTripPlanner@7c16905e]" name="checkTrips" duration-ms="2869" started-at="2017-11-06T12:08:21Z" finished-at="2017-11-06T12:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTrips -->
+      </class> <!-- TripTest.TestTripPlanner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

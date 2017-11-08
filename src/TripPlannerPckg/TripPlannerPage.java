@@ -38,10 +38,9 @@ public class TripPlannerPage {
 	}	    
 	
 	public void setFromBox(String strFrom) {
-      fromTextBox.sendKeys(strFrom);
-      selectLocation("From");
-      
-	}
+               fromTextBox.sendKeys(strFrom);
+               selectLocation("From");
+      	}
 	
 	public void setToxBox(String strTo){
 		toTextBox.sendKeys(strTo);
